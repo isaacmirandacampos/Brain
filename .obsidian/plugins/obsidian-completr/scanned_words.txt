@@ -2214,6 +2214,7 @@ personalidade
 perde
 prestar
 pagar
+public
 basic
 benef
 banco
@@ -4394,6 +4395,7 @@ favor
 fal
 futuro
 ficar
+formalising
 do
 dia
 distribuidos
@@ -7766,6 +7768,8 @@ toma
 truque
 tirem
 tendem
+thoughts
+things
 as
 adi
 ao
@@ -10479,6 +10483,7 @@ calibrada
 certo
 confi
 costumamos
+chosen
 recorrentes
 resumo
 rentbrella
@@ -11646,6 +11651,8 @@ retornos
 repetem
 repetidos
 riqueza
+remember
+reveal
 um
 uso
 usar
@@ -19465,6 +19472,7 @@ esque
 excessos
 excelentes
 esquecem
+everything
 IAs
 Imagens
 IA
@@ -22540,6 +22548,7 @@ obrigatoriamente
 obten
 odo
 objetivas
+okay
 vault
 video
 voc
@@ -26794,6 +26803,7 @@ metas
 mantidos
 maravilhas
 milion
+magic
 Fazer
 Finalizado
 Ferramentas
@@ -32979,6 +32989,7 @@ nestas
 nascidas
 nascem
 nicos
+notes
 livro
 lou
 linkerdin
@@ -38084,6 +38095,8 @@ Milton
 MDSEP
 Morgan
 Mais
+Making
+Maybe
 work
 wide
 where
@@ -39925,6 +39938,7 @@ hhkk
 hOee
 haver
 habilite
+here
 Garrafas
 Geralmente
 Grades
@@ -42857,6 +42871,7 @@ ZpJ
 Zkg
 ZIM
 ZDxp
+Zettelkasten
 Briza
 Bueno
 BF
@@ -43776,6 +43791,7 @@ Berilo
 Boothman
 Bruna
 Batnick
+Brain
 Jordan
 Jupyter
 JavaScript
@@ -49478,6 +49494,7 @@ Whitehead
 Walter
 Weinberg
 WBXHFBL
+Will
 your
 you
 yc

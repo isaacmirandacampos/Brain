@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6441a365bd8f5a",
+        "id": "9950c9896ed3c3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "de01a56602a940d0",
+            "id": "d3c096ac6f771862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md"
+                "file": "README.md"
               }
             }
           },
@@ -180,8 +180,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "de01a56602a940d0",
+  "active": "d3c096ac6f771862",
   "lastOpenFiles": [
+    "README.md",
+    "zettelkasten/Asymptotic Analysis.md",
+    "zettelkasten/Atomic Design.md",
+    "README.md~",
+    "zettelkasten/Binary.md",
+    "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
     "books markups/A psicologia financeira - (Morgan Housel, Roberta Clapp, and Bruna Fiuza).md",
     "books markups/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio - (Allen).md",
     "books markups/Como fazer alguém gostar de você em 90 segundos - (Boothman-Tolezano).md",
@@ -199,15 +205,9 @@
     "zettelkasten/Method Sort on Javascript.md",
     "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
     "zettelkasten/A psicologia financeira.md",
-    "zettelkasten/Asymptotic Analysis.md",
-    "zettelkasten/Atomic Design.md",
-    "zettelkasten/Binary.md",
     "zettelkasten/Data structure.md",
     "zettelkasten/Design Tokens.md",
     "zettelkasten/DynamoDB.md",
-    "zettelkasten/Exponencial.md",
-    "zettelkasten/Heap structure.md",
-    "zettelkasten/Search algorithm.md",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",
     "attachments/Mathematics For Computer Science.pdf",
@@ -221,7 +221,6 @@
     "personal/Mind Maps/Big-oh.canvas",
     "attachments",
     "Shared",
-    "4 - Work/Rentbrella/reflections",
     "Untitled.canvas",
     "4 - Work/Porto seco/Fluxo do porto seco.canvas",
     "1 - Shared/Attachments/1 - exemplo de como resolver casos de violação das regras na estrutura de dados heap.png",

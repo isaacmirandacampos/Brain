@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Solarized",
   "baseFontSize": 21,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": false
 }

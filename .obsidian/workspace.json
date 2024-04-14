@@ -11,8 +11,13 @@
             "id": "5eb58ea8a73fca07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Interview questions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Interview questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/Interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/Interview questions.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
   },
   "active": "5eb58ea8a73fca07",
   "lastOpenFiles": [
+    "zettelkasten/Interview questions.md",
     "zettelkasten/Error Handling no javascript.md",
     "zettelkasten/DynamoDB.md",
     "zettelkasten/Design Tokens.md",
@@ -199,7 +209,6 @@
     "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
     "books markups/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio - (Allen).md",
     "books markups/Como fazer alguém gostar de você em 90 segundos - (Boothman-Tolezano).md",
-    "books markups/Big Data Uma Visão Gerencial - (Amaral).md",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",
     "attachments/Mathematics For Computer Science.pdf",

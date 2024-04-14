@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "617c5a3fd4fa21db",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6441a365bd8f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de01a56602a940d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9d3bc0950c5c766",
+    "type": "split",
+    "children": [
+      {
+        "id": "615f362a50d6b42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "974c3288e78b7968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac96d6c066beb45a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path: sort",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e02d8babd574155",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "78dec46e5cdce4f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3aa3ba35bb135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d04e04e7a91a4a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b83b30c6e63bda0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b51a73738472276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91e2402e3d602b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md"
+              }
+            }
+          },
+          {
+            "id": "a14c9733e51d4756",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba258b4ca929753a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "21eaba9d01a6ad52",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "de01a56602a940d0",
+  "lastOpenFiles": [
+    "books markups/A psicologia financeira - (Morgan Housel, Roberta Clapp, and Bruna Fiuza).md",
+    "books markups/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio - (Allen).md",
+    "books markups/Como fazer alguém gostar de você em 90 segundos - (Boothman-Tolezano).md",
+    "books markups/Big Data Uma Visão Gerencial - (Amaral).md",
+    "books markups/Clean Architecture.md",
+    "books markups/Construindo Software como Serviço - (Fox_et_al).md",
+    "books markups/Design de Produto - (Oliveira).md",
+    "books markups/Lidando com Stakeholders - (Erivan de Sena Ramos).md",
+    "books markups/Livre para escolher - (Friedman).md",
+    "books markups/Neurociência para líderes - (Dimitriadis_et_al).md",
+    "books markups/Mathematics For Computer Science.md",
+    "books markups/Responsabilidade Extrema - (Jocko Willink and Leif Babin).md",
+    "books markups/Os inovadores - (Isaacson_et_al).md",
+    "books markups/Uma Introdução à Matemática - (Whitehead-Santos).md",
+    "zettelkasten/Method Sort on Javascript.md",
+    "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
+    "zettelkasten/A psicologia financeira.md",
+    "zettelkasten/Asymptotic Analysis.md",
+    "zettelkasten/Atomic Design.md",
+    "zettelkasten/Binary.md",
+    "zettelkasten/Data structure.md",
+    "zettelkasten/Design Tokens.md",
+    "zettelkasten/DynamoDB.md",
+    "zettelkasten/Exponencial.md",
+    "zettelkasten/Heap structure.md",
+    "zettelkasten/Search algorithm.md",
+    "attachments/Method Sort on Firefox - Benchmark.png",
+    "attachments/Method Sort on Chrome - Benchmark.png",
+    "attachments/Mathematics For Computer Science.pdf",
+    "attachments/mathematic-for-machine-learning.pdf",
+    "attachments/Clean Architecture (Robert Cecil Martin).pdf",
+    "home/Homepage.canvas",
+    "zettelkasten",
+    "personal/Computer Science/Data visualizer",
+    "personal/Computer Science/(Stanford) Algorithms - Design and Analysis, Part 1",
+    "personal/Computer Science",
+    "personal/Mind Maps/Big-oh.canvas",
+    "attachments",
+    "Shared",
+    "4 - Work/Rentbrella/reflections",
+    "Untitled.canvas",
+    "4 - Work/Porto seco/Fluxo do porto seco.canvas",
+    "1 - Shared/Attachments/1 - exemplo de como resolver casos de violação das regras na estrutura de dados heap.png",
+    "1 - Shared/Attachments/2 - exemplo de como resolver casos de violação das regras na estrutura de dados heap.png",
+    "1 - Shared/Attachments/1 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "1 - Shared/Attachments/2 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "1 - Shared/Attachments/3 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "1 - Shared/Attachments/4 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "1 - Shared/Attachments/5 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "1 - Shared/Attachments/6 - exemplo de vetor sendo refatorado para uma estrutura max heap.png",
+    "10 - Goals.canvas"
+  ]
+}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9950c9896ed3c3ee",
+        "id": "87ee7c128400e5b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c096ac6f771862",
+            "id": "dedc032995d908dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/Mergesort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/Mergesort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/Mergesort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "zettelkasten/Mergesort.md"
               }
             }
           },
@@ -180,9 +180,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d3c096ac6f771862",
+  "active": "dedc032995d908dc",
   "lastOpenFiles": [
     "README.md",
+    "zettelkasten/Melhorando o aprendizado.md",
+    "zettelkasten/Logaritmo.md",
+    "zettelkasten/Let it Crash.md",
+    "zettelkasten/Inversão de array.md",
     "zettelkasten/Asymptotic Analysis.md",
     "zettelkasten/Atomic Design.md",
     "README.md~",
@@ -205,9 +209,6 @@
     "zettelkasten/Method Sort on Javascript.md",
     "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
     "zettelkasten/A psicologia financeira.md",
-    "zettelkasten/Data structure.md",
-    "zettelkasten/Design Tokens.md",
-    "zettelkasten/DynamoDB.md",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",
     "attachments/Mathematics For Computer Science.pdf",

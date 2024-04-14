@@ -1,3 +1,4 @@
+# Let it crash
 created:: 2024-04-14 09:30
 status:: #zettel/permanent 
 tags:: #cloud #docker
@@ -7,4 +8,3 @@ A strategy of handle your containers. You control the errors of applications rec
 With it strategy, we can handler better the errors without consume more of our application. It is more easy to maintain our application resilience. 
 # References
 -  [Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown - YouTube](https://youtu.be/iC_tKAyLeag?si=KwEkxJdD6w5V3ag9&t=1855)
-

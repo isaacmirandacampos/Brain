@@ -1,3 +1,4 @@
+# Mergesort
 created:: 2024-04-14 09:39
 status:: #zettel/fleeting 
 tags:: #algorithm #performance 
@@ -58,4 +59,5 @@ If we *have smaller arrays, it is more advantageous to use another algorithm wit
 
 # References
 -  [e-Aulas da USP :: Mod. 2 - Análise de Algoritmos - vídeo 1 de 3 -...](https://eaulas.usp.br/portal/video?idItem=20198)
+- [Making Sense of Merge Sort \[Part 1\] | by Vaidehi Joshi | basecs | Medium](https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478)
 

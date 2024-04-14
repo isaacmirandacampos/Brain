@@ -1,3 +1,4 @@
+# Inversão de array
 created:: 2024-04-14 09:31
 status:: #zettel/permanent 
 tags:: #performance 

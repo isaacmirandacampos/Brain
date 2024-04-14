@@ -1,3 +1,4 @@
+# Logaritmo
 created:: 2024-04-13 23:27
 status:: #zettel/permanent 
 tags:: #mathematics 

@@ -13954,6 +13954,7 @@ inteligentes
 investimento
 impedir
 indicador
+intention
 Estudos
 Estudar
 Escrever
@@ -26804,6 +26805,7 @@ mantidos
 maravilhas
 milion
 magic
+manage
 Fazer
 Finalizado
 Ferramentas

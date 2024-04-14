@@ -1,3 +1,4 @@
+# Binary search
 created:: 2024-04-14 09:41
 status:: #zettel/permanent 
 tags:: #performance #algorithm 

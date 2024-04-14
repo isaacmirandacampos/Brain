@@ -1,3 +1,4 @@
+# Nomes significativos
 created:: 2024-04-14 10:03
 status:: #zettel/fleeting
 tags:: #clean-code

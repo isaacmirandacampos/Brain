@@ -1,3 +1,4 @@
+# Data structure
 created:: 2024-04-14 09:47
 status:: #zettel/permanent 
 tags:: #data-structure #performance #algorithm 

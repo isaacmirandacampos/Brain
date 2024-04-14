@@ -1,3 +1,4 @@
+# DynamoDB
 created:: 2024-04-14 09:43
 status:: #zettel/permanent 
 tags:: #performance #database

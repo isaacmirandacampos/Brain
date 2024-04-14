@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "87ee7c128400e5b7",
+        "id": "5f2a22b9535acf25",
         "type": "tabs",
         "children": [
           {
-            "id": "dedc032995d908dc",
+            "id": "5eb58ea8a73fca07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Mergesort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Mergesort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Mergesort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Mergesort.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,35 +171,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dedc032995d908dc",
+  "active": "5eb58ea8a73fca07",
   "lastOpenFiles": [
+    "zettelkasten/Error Handling no javascript.md",
+    "zettelkasten/DynamoDB.md",
+    "zettelkasten/Design Tokens.md",
+    "zettelkasten/Database Optimization Techniques.md",
+    "zettelkasten/Data structure.md",
+    "zettelkasten/Conjuntos Numéricos.md",
+    "zettelkasten/Composition Pattern.md",
+    "zettelkasten/Clean code - Nomes Significativos.md",
+    "zettelkasten/Binary Search.md",
+    "zettelkasten/Binary.md",
+    "zettelkasten/Big-oh notation.md",
+    "zettelkasten/Atomic Design.md",
+    "zettelkasten/Asymptotic Analysis.md",
+    "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
+    "books markups/A psicologia financeira - (Morgan Housel, Roberta Clapp, and Bruna Fiuza).md",
+    "zettelkasten/A psicologia financeira.md",
+    "zettelkasten/Mergesort.md",
     "README.md",
     "zettelkasten/Melhorando o aprendizado.md",
     "zettelkasten/Logaritmo.md",
     "zettelkasten/Let it Crash.md",
     "zettelkasten/Inversão de array.md",
-    "zettelkasten/Asymptotic Analysis.md",
-    "zettelkasten/Atomic Design.md",
     "README.md~",
-    "zettelkasten/Binary.md",
     "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
-    "books markups/A psicologia financeira - (Morgan Housel, Roberta Clapp, and Bruna Fiuza).md",
     "books markups/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio - (Allen).md",
     "books markups/Como fazer alguém gostar de você em 90 segundos - (Boothman-Tolezano).md",
     "books markups/Big Data Uma Visão Gerencial - (Amaral).md",
-    "books markups/Clean Architecture.md",
-    "books markups/Construindo Software como Serviço - (Fox_et_al).md",
-    "books markups/Design de Produto - (Oliveira).md",
-    "books markups/Lidando com Stakeholders - (Erivan de Sena Ramos).md",
-    "books markups/Livre para escolher - (Friedman).md",
-    "books markups/Neurociência para líderes - (Dimitriadis_et_al).md",
-    "books markups/Mathematics For Computer Science.md",
-    "books markups/Responsabilidade Extrema - (Jocko Willink and Leif Babin).md",
-    "books markups/Os inovadores - (Isaacson_et_al).md",
-    "books markups/Uma Introdução à Matemática - (Whitehead-Santos).md",
-    "zettelkasten/Method Sort on Javascript.md",
-    "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
-    "zettelkasten/A psicologia financeira.md",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",
     "attachments/Mathematics For Computer Science.pdf",

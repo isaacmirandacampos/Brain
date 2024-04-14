@@ -1,3 +1,4 @@
+# Atomic Design
 created:: 2024-04-14 09:25
 status:: #zettel/permanent 
 tags:: #pattern

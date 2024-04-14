@@ -1,3 +1,4 @@
+# Asymptotic Analysis
 created:: 2024-04-14 10:05
 status:: #zettel/permanent 
 tags:: #performance 

@@ -1,3 +1,4 @@
+# Database optimization techniques
 created:: 2024-04-14 09:59
 status:: #zettel/fleeting
 tags:: #database #performance 

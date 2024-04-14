@@ -1,3 +1,4 @@
+# Composition pattern
 created:: 2024-04-14 10:02
 status:: #zettel/fleeting
 tags:: #pattern 

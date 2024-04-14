@@ -1,3 +1,4 @@
+# Conjuntos numéricos
 created:: 2024-04-13 23:25
 status:: #zettel/permanent 
 tags:: #mathematics 

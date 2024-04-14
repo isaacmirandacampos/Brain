@@ -1,3 +1,4 @@
+# Psicologia financeira
 created:: 2024-04-13 23:24
 status:: #zettel/fleeting
 tags:: #economy

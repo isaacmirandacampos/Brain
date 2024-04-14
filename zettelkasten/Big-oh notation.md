@@ -1,3 +1,4 @@
+# Big-oh notation
 created:: 2024-04-14 10:04
 status:: #zettel/permanent 
 tags:: #performance #algorithm #mathematics 

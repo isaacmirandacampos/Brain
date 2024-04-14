@@ -1,2 +1,3 @@
 dynamodb
 DynamoDB
+dynamoDB

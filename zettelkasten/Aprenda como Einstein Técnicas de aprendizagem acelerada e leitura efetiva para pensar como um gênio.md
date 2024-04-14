@@ -1,3 +1,4 @@
+# Aprenda como Eistein Técnias de aprendizado
 created:: 2024-04-13 23:22
 status:: #zettel/permanent 
 tags:: #learning

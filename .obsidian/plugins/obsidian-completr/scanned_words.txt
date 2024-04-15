@@ -5627,6 +5627,7 @@ duro
 dinheiro
 desconfiada
 desejar
+demands
 Transferir
 Tokens
 Todo
@@ -10483,6 +10484,7 @@ certo
 confi
 costumamos
 chosen
+consistent
 recorrentes
 resumo
 rentbrella
@@ -11652,6 +11654,7 @@ repetidos
 riqueza
 remember
 reveal
+raci
 um
 uso
 usar
@@ -18195,6 +18198,9 @@ sucessos
 sobreviver
 serei
 sentimentos
+soft
+skills
+scope
 es
 em
 escopo
@@ -29908,6 +29914,7 @@ RYTT
 Requisitos
 Ramos
 Roberta
+RACI
 Principle
 Paguei
 Podcast

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f2a22b9535acf25",
+        "id": "2b7076c194a7a7c5",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb58ea8a73fca07",
+            "id": "b416166f11716598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Interview questions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Interview questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Interview questions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +171,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5eb58ea8a73fca07",
+  "active": "b416166f11716598",
   "lastOpenFiles": [
+    "zettelkasten/RACI Matrix.md",
+    "zettelkasten/Injection dependency is better than mock.md",
+    "zettelkasten/Proxy pattern.md",
+    "templates/note_template.md",
     "zettelkasten/Interview questions.md",
     "zettelkasten/Error Handling no javascript.md",
     "zettelkasten/DynamoDB.md",
@@ -204,11 +199,7 @@
     "zettelkasten/Melhorando o aprendizado.md",
     "zettelkasten/Logaritmo.md",
     "zettelkasten/Let it Crash.md",
-    "zettelkasten/Inversão de array.md",
     "README.md~",
-    "books markups/14 Hábitos de Desenvolvedores Altamente Produtivos - (Rocha_et_al).md",
-    "books markups/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio - (Allen).md",
-    "books markups/Como fazer alguém gostar de você em 90 segundos - (Boothman-Tolezano).md",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",
     "attachments/Mathematics For Computer Science.pdf",

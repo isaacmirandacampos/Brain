@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0321da1db5376c",
+        "id": "51e1756fb5915842",
         "type": "tabs",
         "children": [
           {
-            "id": "f945a732486a643a",
+            "id": "4f91a49a85858fb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/A importancia de pivotar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf6dcca7e37833e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Motor de crescimento viral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e28402c163dabae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Motor de crescimento.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Motor de crescimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Motor de crescimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Motor de crescimento.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +171,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "974c3288e78b7968",
+  "active": "4f91a49a85858fb2",
   "lastOpenFiles": [
-    "zettelkasten/Motor de crescimento viral.md",
+    "zettelkasten/Design System.md",
+    "zettelkasten/Data structure.md",
+    "zettelkasten/Example of removing data on static sets.png.md",
+    "zettelkasten/Dynamic set of data in memory.png.md",
+    "zettelkasten/mathematic-for-machine-learning.pdf.md",
+    "zettelkasten/Where to learning about Machine Learning.md",
     "zettelkasten/Motor de crescimento.md",
+    "zettelkasten/Motor de crescimento viral.md",
     "zettelkasten/A importancia de pivotar.md",
     "zettelkasten/DRY - Don't repeat yourself.md",
     "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
@@ -229,12 +199,6 @@
     "zettelkasten/Interview questions.md",
     "zettelkasten/Error Handling no javascript.md",
     "zettelkasten/DynamoDB.md",
-    "zettelkasten/Design Tokens.md",
-    "zettelkasten/Database Optimization Techniques.md",
-    "zettelkasten/Data structure.md",
-    "zettelkasten/Conjuntos Numéricos.md",
-    "zettelkasten/Composition Pattern.md",
-    "zettelkasten/Clean code - Nomes Significativos.md",
     "README.md~",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",

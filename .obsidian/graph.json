@@ -1,9 +1,9 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:zettelkasten ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,34 +11,34 @@
       "query": "tag:#zettel/fleeting  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#zettel/permanent  ",
-      "color": {
-        "a": 1,
-        "rgb": 8388863
+        "rgb": 16702465
       }
     },
     {
       "query": "tag:#zettel/references  ",
       "color": {
         "a": 1,
-        "rgb": 15597057
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#zettel/permanent  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711718
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.967708333333333,
-  "lineSizeMultiplier": 1.68229166666667,
-  "collapse-forces": true,
-  "centerStrength": 0.609375,
-  "repelStrength": 11.1458333333333,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 184,
+  "linkDistance": 250,
   "scale": 0.8589996864222229,
   "close": true
 }

@@ -2215,6 +2215,9 @@ perde
 prestar
 pagar
 public
+pivotar
+perseveran
+publico
 basic
 benef
 banco
@@ -3290,6 +3293,7 @@ benchmarking
 bicicleta
 blica
 brilho
+buscamos
 fazeres
 fazer
 financeira
@@ -7770,6 +7774,8 @@ tirem
 tendem
 thoughts
 things
+tese
+tomamos
 as
 adi
 ao
@@ -9076,6 +9082,10 @@ achem
 admir
 amados
 admirados
+acion
+afim
+afetam
+aglomerado
 contas
 cart
 carreira
@@ -10485,6 +10495,10 @@ confi
 costumamos
 chosen
 consistent
+causa
+considerarmos
+considerada
+cnias
 recorrentes
 resumo
 rentbrella
@@ -11655,6 +11669,7 @@ riqueza
 remember
 reveal
 raci
+refinar
 um
 uso
 usar
@@ -13958,6 +13973,7 @@ impedir
 indicador
 intention
 interview
+ignoramos
 Estudos
 Estudar
 Escrever
@@ -15024,6 +15040,8 @@ Erivan
 Estou
 Elas
 Executivos
+Empreendedorismo
+Eistein
 HTTP
 Highlights
 Heap
@@ -18201,6 +18219,8 @@ sentimentos
 soft
 skills
 scope
+startups
+silicio
 es
 em
 escopo
@@ -19480,6 +19500,16 @@ excessos
 excelentes
 esquecem
 everything
+entreg
+entregar
+enxuta
+extrair
+entregarem
+enxergamos
+especificar
+experimentar
+experienciado
+empres
 IAs
 Imagens
 IA
@@ -23571,6 +23601,7 @@ vivido
 valorizam
 voltem
 vital
+vale
 Levantar
 Ler
 Li
@@ -24557,6 +24588,8 @@ Lideran
 Livre
 Lidando
 Lei
+Livro
+Lean
 Arrumar
 Adapta
 Avan
@@ -25555,6 +25588,7 @@ Abordagem
 Armando
 AOC
 Amaral
+Aprendizagem
 mapas
 mentais
 metadatas
@@ -26814,6 +26848,8 @@ maravilhas
 milion
 magic
 manage
+metricas
+medir
 Fazer
 Finalizado
 Ferramentas
@@ -28845,6 +28881,7 @@ SaaS
 Segunda
 Significa
 Soros
+Startup
 Responsibility
 Referente
 Reposit
@@ -30951,6 +30988,7 @@ Produto
 Product
 Patterson
 Projetos
+Psicologia
 Complete
 Caminha
 Caroline
@@ -38108,6 +38146,7 @@ Morgan
 Mais
 Making
 Maybe
+MVP
 work
 wide
 where
@@ -39950,6 +39989,7 @@ hOee
 haver
 habilite
 here
+hip
 Garrafas
 Geralmente
 Grades

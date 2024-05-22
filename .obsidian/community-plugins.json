@@ -1,13 +1,9 @@
 [
-  "obsidian-admonition",
   "table-editor-obsidian",
-  "obsidian-annotator",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-kindle-plugin",
-  "obsidian-kanban",
   "obsidian-paste-image-rename",
-  "obsidian-outliner",
   "cm-editor-syntax-highlight-obsidian",
   "quick-latex",
   "calendar",
@@ -17,9 +13,7 @@
   "settings-search",
   "obsidian-emoji-toolbar",
   "dataview",
-  "share-note",
   "obsidian-auto-link-title",
   "obsidian-charts",
-  "homepage",
-  "obsidian-tasks-plugin"
+  "homepage"
 ]

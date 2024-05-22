@@ -11,7 +11,6 @@ It contains courses of the *Stanford* and *MIT* on youtube.
 
 #### Book: Mathematics for machine learning
 https://github.com/mml-book/mml-book.github.io
-The book is *downloaded* in you can access it [[mathematic-for-machine-learning.pdf]]
 #### Book: MIT Deep Learning
 https://github.com/janishar/mit-deep-learning-book-pdf/tree/master
 ##### Most links about Machine learning:

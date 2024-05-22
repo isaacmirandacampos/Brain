@@ -18,7 +18,6 @@ v = [1, 2, 3, 4, 5]
 - Inefficiency to do some common operations
 	- Insert or remove a new value on array
 	- Unused time and wasted memory
-![[Example of removing data on static sets.png]]
 *Example* the code to removing data in a static set
 ```python
 def delete(vetor, position, length_usable):
@@ -29,7 +28,6 @@ def delete(vetor, position, length_usable):
 ### Dynamic sets
 Dynamic sets are objects *mutable*, more simple and effective. It working using pointers that be target a address in memory.
 
-![[Dynamic set of data in memory.png]]
 In this image, we can see the structure:
 ```js
 const p = {

@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a2dad171c6c72aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md"
+              }
             }
           },
           {
@@ -171,8 +189,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4f91a49a85858fb2",
+  "active": "a2dad171c6c72aa0",
   "lastOpenFiles": [
+    "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
     "zettelkasten/Design System.md",
     "zettelkasten/Data structure.md",
     "zettelkasten/Example of removing data on static sets.png.md",
@@ -198,7 +217,6 @@
     "templates/note_template.md",
     "zettelkasten/Interview questions.md",
     "zettelkasten/Error Handling no javascript.md",
-    "zettelkasten/DynamoDB.md",
     "README.md~",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",

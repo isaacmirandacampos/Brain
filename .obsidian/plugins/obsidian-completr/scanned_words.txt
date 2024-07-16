@@ -2218,6 +2218,9 @@ public
 pivotar
 perseveran
 publico
+problems
+page
+projects
 basic
 benef
 banco
@@ -3294,6 +3297,8 @@ bicicleta
 blica
 brilho
 buscamos
+between
+backend
 fazeres
 fazer
 financeira
@@ -4400,6 +4405,7 @@ fal
 futuro
 ficar
 formalising
+fetching
 do
 dia
 distribuidos
@@ -7776,6 +7782,8 @@ thoughts
 things
 tese
 tomamos
+tomadas
+team
 as
 adi
 ao
@@ -9086,6 +9094,7 @@ acion
 afim
 afetam
 aglomerado
+atuar
 contas
 cart
 carreira
@@ -10500,6 +10509,10 @@ considerarmos
 considerada
 cnias
 camadas
+controllers
+combined
+custom
+constant
 recorrentes
 resumo
 rentbrella
@@ -11671,6 +11684,9 @@ remember
 reveal
 raci
 refinar
+rest
+requests
+resolvers
 um
 uso
 usar
@@ -12708,6 +12724,7 @@ ujYFAH
 uuub
 uhY
 utilizada
+unlikely
 isolado
 integra
 introdu
@@ -13975,6 +13992,7 @@ indicador
 intention
 interview
 ignoramos
+ineffective
 Estudos
 Estudar
 Escrever
@@ -15043,6 +15061,7 @@ Elas
 Executivos
 Empreendedorismo
 Eistein
+Entendimento
 HTTP
 Highlights
 Heap
@@ -17061,6 +17080,7 @@ UfO
 ULRm
 UDQ
 UEE
+Under
 sistemas
 secret
 sobre
@@ -18222,6 +18242,9 @@ skills
 scope
 startups
 silicio
+seram
+single
+systems
 es
 em
 escopo
@@ -22589,6 +22612,8 @@ obten
 odo
 objetivas
 okay
+organizations
+organization
 vault
 video
 voc
@@ -25590,6 +25615,7 @@ Armando
 AOC
 Amaral
 Aprendizagem
+Aquitetura
 mapas
 mentais
 metadatas
@@ -26851,6 +26877,8 @@ magic
 manage
 metricas
 medir
+monolithic
+microservices
 Fazer
 Finalizado
 Ferramentas
@@ -27812,6 +27840,7 @@ Fox
 Fabio
 Fernando
 Fiuza
+FullCycle
 Single
 Solid
 Stanford
@@ -31994,6 +32023,8 @@ Cordeiro
 Consultores
 Clapp
 Contudo
+Considerations
+Conway
 no
 na
 novos
@@ -33040,6 +33071,7 @@ nascidas
 nascem
 nicos
 notes
+needed
 livro
 lou
 linkerdin
@@ -34087,6 +34119,7 @@ lucro
 levaram
 loucura
 lias
+law
 jejum
 juntos
 javascript
@@ -37050,6 +37083,7 @@ David
 Daniel
 Daniela
 Descubra
+Describes
 Melhorei
 Montei
 Moreschi
@@ -38148,6 +38182,8 @@ Mais
 Making
 Maybe
 MVP
+Muitas
+MBA
 work
 wide
 where
@@ -39035,6 +39071,7 @@ wQa
 wrg
 wLEq
 wTb
+weight
 harvey
 histograma
 highlightsCount
@@ -40978,6 +41015,7 @@ GgH
 Gerald
 Gerencial
 Gerentes
+Graphql
 geral
 gentil
 gerenciar
@@ -41909,6 +41947,8 @@ guiada
 ganharam
 graus
 ganha
+garantindo
+graphql
 Zeno
 ZT
 Zw
@@ -45749,6 +45789,7 @@ Ooh
 OTO
 ORL
 Oliveira
+Over
 Qualquer
 Quanto
 Qual

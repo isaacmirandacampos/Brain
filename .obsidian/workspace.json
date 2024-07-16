@@ -4,24 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "51e1756fb5915842",
+        "id": "24c6150fdfc981ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4f91a49a85858fb2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2dad171c6c72aa0",
+            "id": "149605e67781b0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
+                "file": "zettelkasten/CQRS - Command Query Responsibility Segregation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f5410ed2ddf4601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdf",
+                "query": "tag:#zettel/fleeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/As 3 camadas de arquitetura de soluçao.md"
+                "file": "README.md"
               }
             }
           },
@@ -189,8 +194,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2dad171c6c72aa0",
+  "active": "1f5410ed2ddf4601",
   "lastOpenFiles": [
+    "zettelkasten/Caching Strategies.md",
+    "zettelkasten/CQRS - Command Query Responsibility Segregation.md",
+    "zettelkasten/Stateless e statefull.md",
+    "zettelkasten/Conway's law.md",
+    "zettelkasten/Graphql Advantages.md",
     "zettelkasten/As 3 camadas de arquitetura de soluçao.md",
     "zettelkasten/Design System.md",
     "zettelkasten/Data structure.md",
@@ -212,11 +222,6 @@
     "zettelkasten/A psicologia financeira.md",
     "zettelkasten/Unit tests are important to avoid software degradation.md",
     "zettelkasten/RACI Matrix.md",
-    "zettelkasten/Injection dependency is better than mock.md",
-    "zettelkasten/Proxy pattern.md",
-    "templates/note_template.md",
-    "zettelkasten/Interview questions.md",
-    "zettelkasten/Error Handling no javascript.md",
     "README.md~",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",

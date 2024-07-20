@@ -1,7 +1,7 @@
 # As 3 camadas de arquitetura de soluçao
 created:: 2024-07-06 19:58
 status:: #zettel/fleeting
-tags::
+tags:: #solution-architecture 
 
 Existem 3 camadas de arquitetura de solução, que são:
 - **O nível 0**: Arquitetura focada no negócio.
@@ -10,7 +10,4 @@ Existem 3 camadas de arquitetura de solução, que são:
 	- Definição técnica da aplicação, quais banco de dados usar, quais linguagens, quais comportamentos e quais as melhores medidas seram tomadas.
 - **O nível 2**: Arquitetura focada no deployment.
 	- A definição de como será entregue a solução, garantindo a qualidade do sistema.
-
-# References
-- MBA FullCycle
 

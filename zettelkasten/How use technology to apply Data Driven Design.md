@@ -56,7 +56,20 @@ demo: [Ackee](https://demo.ackee.electerious.com/#/)
 ## When don't known where go, any route will do
 You don't use the data for the data, you need use the data to know the actual state, and after this, know what do you need improve. When do you know what you need improve, you can define how measure the effectiveness using data.
 For create goals, you need known the actual state of your product/business. Don't feels afraid if you don't known your target, maybe you need study your business to known what do you need do.
-
+## Tips of what we can try measure today
+Some ideas of what do we can try measure and what tools used for this.
+### Onboading app Rentbrella
+The rate of users read the onboarding, abandon the onbarding in the middle and the persons don't read the onboarding. Know the time of a user use to withdraw in GC after skip onboarding, abandon in middle step and when complete the onboarding. Help us to understand the effectiveness the onboarding and make the decision about change the actual onboarding to an apply a guided onboarding.
+**Tools:** heatmap and Applications monitor.
+**Example of goals:** Improve the medium time of new users the machine (we can attack the onboarding unread, onboarding medium or simplify the users.)
+### SLA of operation team
+We can create a dashboard on murdock to known the medium time of OS be resolved or allocated. It's can be filtered by type of OS, operation group, third party service and region. We can known if a group or operator has difficult for a specific OS and to research the reason.
+**Tools:** business analytics 
+**Goals example:** Know what groups can improve your time and know which regions need more operators and which OS types cost most for the Rentbrella. With this, you can hire more operators, improve the onboarding of a operator group, research a possible path to avoid most expensive os types.
+### Queue frequency
+In some times, we talk about the queue users waiting to use our machines, but what the frequency of queues for rain? It's common? We can measure the time of a new user try to use the machine in a rain.
+**Tools:** Applications monitor and business analytics
+**Goals example:** Justify the withdraw using BLE.
 
 
 

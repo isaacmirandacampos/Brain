@@ -53,6 +53,11 @@ demo: [Matomo](https://demo.matomo.cloud/index.php?module=CoreHome&action=index&
 #### [Ackee](https://demo.ackee.electerious.com/#/)
 An open source tool made in node.js that how know the user interaction with our applications, the duration of sessions and the how use find the website.
 demo: [Ackee](https://demo.ackee.electerious.com/#/)
+## When don't known where go, any route will do
+You don't use the data for the data, you need use the data to know the actual state, and after this, know what do you need improve. When do you know what you need improve, you can define how measure the effectiveness using data.
+For create goals, you need known the actual state of your product/business. Don't feels afraid if you don't known your target, maybe you need study your business to known what do you need do.
+
+
 
 
 

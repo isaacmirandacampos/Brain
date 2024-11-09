@@ -4,7 +4,7 @@ status:: #zettel/permanent
 tags:: #telemetry #tech-talk #product #data-driven-design
 
 ## What is Data Driven Design?
-Data Driven Design is a practice of use data to make decisions rather than use the personal intuition. It's better for make new decisions and to validate decisions. It helps the team work on what's important.
+Data Driven Design is a practice of use data to make decisions rather than use the personal intuition. It's better for make new decisions and to validate decisions. It helps the team work on what's important. The data driven design has two segments of data, such as: quantitative data and qualitative date, we talk about quantitative data in this document.
 ## Why is important for TI?
 Nothing goes write the best code with the best practices, if the best code not the best software for the user. Know the tools and use there for change our code is a essential practice for our. We can use some tools in our CI/CD for ensure the consistency practice.
 ## Data segments
@@ -61,7 +61,7 @@ Some ideas of what do we can try measure and what tools used for this.
 ### Onboading app Rentbrella
 The rate of users read the onboarding, abandon the onbarding in the middle and the persons don't read the onboarding. Know the time of a user use to withdraw in GC after skip onboarding, abandon in middle step and when complete the onboarding. Help us to understand the effectiveness the onboarding and make the decision about change the actual onboarding to an apply a guided onboarding.
 **Tools:** heatmap and Applications monitor.
-**Example of goals:** Improve the medium time of new users the machine (we can attack the onboarding unread, onboarding medium or simplify the users.)
+**Goals example:** Improve the medium time of new users the machine (we can attack the onboarding unread, onboarding medium or simplify the uses.)
 ### SLA of operation team
 We can create a dashboard on murdock to known the medium time of OS be resolved or allocated. It's can be filtered by type of OS, operation group, third party service and region. We can known if a group or operator has difficult for a specific OS and to research the reason.
 **Tools:** business analytics 
@@ -70,10 +70,3 @@ We can create a dashboard on murdock to known the medium time of OS be resolved 
 In some times, we talk about the queue users waiting to use our machines, but what the frequency of queues for rain? It's common? We can measure the time of a new user try to use the machine in a rain.
 **Tools:** Applications monitor and business analytics
 **Goals example:** Justify the withdraw using BLE.
-
-
-
-
-
-
-

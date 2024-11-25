@@ -12,6 +12,7 @@ O termo surgiu por volta dos anos 1910+, e foi usado para meio de marketing já 
 ### O que de fato uma ia generativa faz?
 De forma bem superficial e breve, uma ia generativa é um modelo probabilistico. A IA consiste em um modelo gigante de palavras que estão distribuidas em um modelo cartesiano. 
 ![Modelo cartesiano](https://github.com/isaacmirandacampos/Brain/blob/master/attachments/modelo-cartesiano.png?raw=true")
+
 Cada ponto no modelo cartesiano vai representar uma palavra, as palavras possuem pesos e os pesos determinam a aproximação de uma palavra com outra. Por exemplo, provavelmente a palavra maçã tem um peso mais prõximo de uva do que a palavra pneu.
 #### Onde entra a probabilidade nisso?
 Com base na pergunta que você fez, a ia generativa vai aplicar um calculo probabilistico de qual palavra tem um peso mais similar para completar o texto a qual você enviou, esse calculo pode errar. E preste muita atenção aqui: a ia tenta acertar a próxima palavra, a cada palavra ela tentara descobrir a prõxima com base na ultima que ela devolveu, ou seja, a cada palavra, existe uma probabilidade de ela se perder com base na ultima palavra que ela retornou.

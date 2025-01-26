@@ -3299,6 +3299,8 @@ brilho
 buscamos
 between
 backend
+business
+break
 fazeres
 fazer
 financeira
@@ -4406,6 +4408,8 @@ futuro
 ficar
 formalising
 fetching
+fear
+features
 do
 dia
 distribuidos
@@ -5638,6 +5642,11 @@ dinheiro
 desconfiada
 desejar
 demands
+divided
+domain
+databases
+degradation
+developers
 Transferir
 Tokens
 Todo
@@ -6717,6 +6726,8 @@ TjsP
 Tolezano
 TKXLTR
 Tenha
+That
+Tests
 todas
 terraform
 templates
@@ -7784,6 +7795,8 @@ tese
 tomamos
 tomadas
 team
+tests
+think
 as
 adi
 ao
@@ -9095,6 +9108,7 @@ afim
 afetam
 aglomerado
 atuar
+around
 contas
 cart
 carreira
@@ -10513,6 +10527,9 @@ controllers
 combined
 custom
 constant
+command
+commands
+considering
 recorrentes
 resumo
 rentbrella
@@ -11687,6 +11704,9 @@ refinar
 rest
 requests
 resolvers
+responsible
+rule
+refactor
 um
 uso
 usar
@@ -12725,6 +12745,7 @@ uuub
 uhY
 utilizada
 unlikely
+useless
 isolado
 integra
 introdu
@@ -17081,6 +17102,7 @@ ULRm
 UDQ
 UEE
 Under
+Unit
 sistemas
 secret
 sobre
@@ -18245,6 +18267,9 @@ silicio
 seram
 single
 systems
+stack
+said
+studying
 es
 em
 escopo
@@ -28912,6 +28937,7 @@ Segunda
 Significa
 Soros
 Startup
+Segregation
 Responsibility
 Referente
 Reposit
@@ -32025,6 +32051,9 @@ Clapp
 Contudo
 Considerations
 Conway
+CQRS
+Command
+Consideration
 no
 na
 novos
@@ -33072,6 +33101,7 @@ nascem
 nicos
 notes
 needed
+necessary
 livro
 lou
 linkerdin
@@ -34120,6 +34150,7 @@ levaram
 loucura
 lias
 law
+layer
 jejum
 juntos
 javascript
@@ -39072,6 +39103,8 @@ wrg
 wLEq
 wTb
 weight
+writing
+write
 harvey
 histograma
 highlightsCount
@@ -46793,6 +46826,7 @@ QJA
 QlT
 Quem
 Quero
+Query
 Notebooks
 Normalize
 No
@@ -47589,6 +47623,7 @@ Neg
 Nuvem
 Nicholas
 Nada
+Not
 Keywords
 Ka
 KE

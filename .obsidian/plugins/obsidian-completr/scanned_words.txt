@@ -2221,6 +2221,9 @@ publico
 problems
 page
 projects
+program
+practices
+performatic
 basic
 benef
 banco
@@ -3301,6 +3304,7 @@ between
 backend
 business
 break
+bad
 fazeres
 fazer
 financeira
@@ -4410,6 +4414,8 @@ formalising
 fetching
 fear
 features
+free
+functions
 do
 dia
 distribuidos
@@ -5647,6 +5653,7 @@ domain
 databases
 degradation
 developers
+duplicate
 Transferir
 Tokens
 Todo
@@ -7797,6 +7804,7 @@ tomadas
 team
 tests
 think
+though
 as
 adi
 ao
@@ -9109,6 +9117,8 @@ afetam
 aglomerado
 atuar
 around
+automatically
+alocate
 contas
 cart
 carreira
@@ -10530,6 +10540,9 @@ constant
 command
 commands
 considering
+current
+clear
+clears
 recorrentes
 resumo
 rentbrella
@@ -11707,6 +11720,9 @@ resolvers
 responsible
 rule
 refactor
+reached
+reduce
+reach
 um
 uso
 usar
@@ -12746,6 +12762,7 @@ uhY
 utilizada
 unlikely
 useless
+understad
 isolado
 integra
 introdu
@@ -14014,6 +14031,7 @@ intention
 interview
 ignoramos
 ineffective
+implements
 Estudos
 Estudar
 Escrever
@@ -15083,6 +15101,8 @@ Executivos
 Empreendedorismo
 Eistein
 Entendimento
+Exist
+Even
 HTTP
 Highlights
 Heap
@@ -17103,6 +17123,7 @@ UDQ
 UEE
 Under
 Unit
+Understand
 sistemas
 secret
 sobre
@@ -18270,6 +18291,10 @@ systems
 stack
 said
 studying
+space
+stacks
+strategies
+still
 es
 em
 escopo
@@ -19559,6 +19584,7 @@ especificar
 experimentar
 experienciado
 empres
+erase
 IAs
 Imagens
 IA
@@ -22639,6 +22665,7 @@ objetivas
 okay
 organizations
 organization
+overflow
 vault
 video
 voc
@@ -23653,6 +23680,8 @@ valorizam
 voltem
 vital
 vale
+variable
+variables
 Levantar
 Ler
 Li
@@ -25641,6 +25670,8 @@ AOC
 Amaral
 Aprendizagem
 Aquitetura
+Asymptotic
+Analysis
 mapas
 mentais
 metadatas
@@ -26904,6 +26935,8 @@ metricas
 medir
 monolithic
 microservices
+manually
+moderation
 Fazer
 Finalizado
 Ferramentas
@@ -28938,6 +28971,7 @@ Significa
 Soros
 Startup
 Segregation
+Stack
 Responsibility
 Referente
 Reposit
@@ -32054,6 +32088,7 @@ Conway
 CQRS
 Command
 Consideration
+CPU
 no
 na
 novos
@@ -34151,6 +34186,9 @@ loucura
 lias
 law
 layer
+limit
+leak
+leaks
 jejum
 juntos
 javascript
@@ -38215,6 +38253,8 @@ Maybe
 MVP
 Muitas
 MBA
+Memory
+Management
 work
 wide
 where
@@ -39105,6 +39145,7 @@ wTb
 weight
 writing
 write
+wait
 harvey
 histograma
 highlightsCount
@@ -41049,6 +41090,7 @@ Gerald
 Gerencial
 Gerentes
 Graphql
+Garbage
 geral
 gentil
 gerenciar
@@ -41982,6 +42024,8 @@ graus
 ganha
 garantindo
 graphql
+garbage
+golang
 Zeno
 ZT
 Zw
@@ -48667,6 +48711,7 @@ KDX
 KJJJKK
 Klll
 KOo
+Known
 What
 When
 We

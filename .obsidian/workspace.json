@@ -11,29 +11,17 @@
             "id": "3170894256957dbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "3ba3e1b764896052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "zettelkasten/Memory Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "aFile": "zettelkasten/A importancia de pivotar.md",
+                "bFile": "zettelkasten/A importancia de pivotar.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Memory Management"
+              "icon": "diff",
+              "title": "Diff: A importancia de pivotar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettel/fleeting",
+                "query": "big-oh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,14 +179,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "42a6b1fab8baf41c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
-    "collapsed": true
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,12 +207,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ba3e1b764896052",
+  "active": "3170894256957dbe",
   "lastOpenFiles": [
+    "zettelkasten/Estilos de liderança.md",
+    "zettelkasten/Big-oh notation.md",
+    "zettelkasten/Asymptotic Analysis.md",
     "zettelkasten/Memory Management.md",
     "zettelkasten/Aprenda como Einstein Técnicas de aprendizagem acelerada e leitura efetiva para pensar como um gênio.md",
     "README.md",
@@ -238,9 +238,6 @@
     "zettelkasten/Motor de crescimento viral.md",
     "zettelkasten/A importancia de pivotar.md",
     "zettelkasten/DRY - Don't repeat yourself.md",
-    "zettelkasten/Métricas acionáveis.md",
-    "zettelkasten/Aprendizagem continua.md",
-    "zettelkasten/Lean Startup.md",
     "README.md~",
     "attachments/Method Sort on Firefox - Benchmark.png",
     "attachments/Method Sort on Chrome - Benchmark.png",

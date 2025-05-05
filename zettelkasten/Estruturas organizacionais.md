@@ -5,7 +5,6 @@ tags:: #leadership
 
 ## Introdução
 Estrutura organizacional é como as pessoas organizam e cooperam com as atividades da empresa. Isso engloba aspectos humanos, administrativos, financeiro e jurídico. 
-
 ## Estrutura Projetizada
 Na estrutura projetizada, os projetos são organizados por squads que possuem habilidades suficientes para executar um projeto do começo ao fim. Essa estrutura exige uma equipe com maior capacidade técnica para tomar decisões em diferentes áreas.
 ### Vantagens
